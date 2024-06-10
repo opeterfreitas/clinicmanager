@@ -1,0 +1,105 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.jmod
+
+# Logs
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Quarkus
+.quarkus/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Node
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Compiled binary and libraries
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Backup files
+*.bak
+*.old
+
+# Package files
+*.tgz
+*.deb
+*.rpm
+*.jar.pack.gz
+*.war.pack.gz
+*.ear.pack.gz
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.tar
+
+# Miscellaneous
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# IDEs
+# IntelliJ
+*.ipr
+*.iws
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+sensitive-data/
